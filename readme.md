@@ -6,7 +6,7 @@ This is an open source command line application built to extract past papers of 
 ## Downloading
 
 - Click the green 'CODE' button and press download zip.
-- or, if you have git installed in your device, go to terminal and type `git clone https://github.com/SulavSapkota2060/MyStocksBackend.git`
+- or, if you have git installed in your device, go to terminal and type `git clone https://github.com/SulavSapkota2060/PastPaperExtractor.git`
 This will clone the repository in your local drive.
   
 
